@@ -21,5 +21,5 @@ This project aims to provide an automated system for classifying different types
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fruit-classification-freshness-detection.git
-   cd fruit-classification-freshness-detection
+   git clone https://github.com/aparnah30/Fruit_freshness.git
+   
